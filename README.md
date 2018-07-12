@@ -1,4 +1,5 @@
-*andrewsteck.github.io*
+andrewsteck.github.io
+=====================
 
 Repository for academic website.
 
