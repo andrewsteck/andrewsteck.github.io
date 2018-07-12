@@ -1,6 +1,6 @@
 I am an Assistant Professor of Strategic Management at the University of Toronto, cross-appointed between the Department of Management at the University of Toronto Mississauga, and the Rotman School of Management.  I graduated with a PhD in Economics from Duke University in 2018.
 
-My research interests include industrial organization, the economics of innovation, energy economics, and applied microeconomics.j 
+My research interests include industrial organization, the economics of innovation, energy economics, and applied microeconomics. 
 
 
 
