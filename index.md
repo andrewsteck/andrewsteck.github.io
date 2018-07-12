@@ -2,7 +2,7 @@ I am an Assistant Professor of Strategic Management at the [University of Toront
 
 My research interests include industrial organization, the economics of innovation, energy economics, and applied microeconomics. 
 
-
+[Research](./research.html)
 
 
 
