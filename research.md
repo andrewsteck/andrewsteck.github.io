@@ -2,9 +2,9 @@
 layout: default
 ---
 
-## Research
+## Academic Research
 
-This page provides an overview of my academic research.
+
 
 ### Working Papers
 
