@@ -17,6 +17,3 @@ layout: default
 1. "Private and Public Incentives for Testing: Evidence from Stents"
 
 2. "The Impact of the Fracking Boom on Rents in Pennyslvania"
-
-
-[Homepage](./index.html)
