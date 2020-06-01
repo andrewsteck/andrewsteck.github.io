@@ -15,6 +15,7 @@ layout: default
 2. "Learning by Viewing? Social Learning, Regulatory Disclosure and Firm Productivity in Shale Gas"
 
    [current draft](https://andrewsteck.github.io/uploads/lbv_may20.pdf)
+   
    prior version available as [NBER Working Paper 25401](https://www.nber.org/papers/w25401), *submitted*
 
    with [T Robert Fetter](https://sites.duke.edu/trfetter/), [Christopher Timmins](https://sites.duke.edu/christophertimmins), and [Douglas H Wrenn](https://aese.psu.edu/directory/dhw121)
