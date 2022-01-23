@@ -10,13 +10,13 @@ layout: default
 
 1. "Industry Dynamics with Social Learning: Evidence from Hydraulic Fracturing"
 
-   [current draft](https://andrewsteck.github.io/uploads/steck_jmp.pdf) (updated draft coming soon)
+   [current draft](https://andrewsteck.github.io/uploads/ecma_draft.pdf) *submitted*
 
 2. "Learning by Viewing? Social Learning, Regulatory Disclosure and Firm Productivity in Shale Gas"
 
-   [current draft](https://andrewsteck.github.io/uploads/lbv_may20.pdf)
+   [current draft](https://andrewsteck.github.io/uploads/lbvmain.pdf) (revisions coming soon)
    
-   prior version available as [NBER Working Paper 25401](https://www.nber.org/papers/w25401), *submitted*
+   prior version available as [NBER Working Paper 25401](https://www.nber.org/papers/w25401)
 
    with [T Robert Fetter](https://sites.duke.edu/trfetter/), [Christopher Timmins](https://sites.duke.edu/christophertimmins), and [Douglas H Wrenn](https://aese.psu.edu/directory/dhw121)
 
