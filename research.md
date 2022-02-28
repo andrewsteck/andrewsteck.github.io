@@ -14,7 +14,8 @@ layout: default
 
 2. "Learning by Viewing? Social Learning, Regulatory Disclosure and Firm Productivity in Shale Gas"
 
-   [current draft](https://andrewsteck.github.io/uploads/lbvmain.pdf) (revisions coming soon)
+   [current draft](https://andrewsteck.github.io/uploads/lbv_may20.pdf) (revisions coming soon)
+   <!-- [current draft](https://andrewsteck.github.io/uploads/lbvmain.pdf) (revisions coming soon) -->
    
    prior version available as [NBER Working Paper 25401](https://www.nber.org/papers/w25401)
 
