@@ -10,7 +10,9 @@ layout: default
 
 1. "Industry Dynamics with Social Learning: Evidence from Hydraulic Fracturing"
 
-   [current draft](https://andrewsteck.github.io/uploads/ecma_draft.pdf) *submitted*
+   [current draft](https://andrewsteck.github.io/uploads/ecma_draft.pdf) (revisions coming soon)
+   
+   *Finalist, Young Economists' Essay Award, EARIE, 2022*
 
 2. "Learning by Viewing? Social Learning, Regulatory Disclosure and Firm Productivity in Shale Gas"
 
@@ -22,6 +24,10 @@ layout: default
    with [T Robert Fetter](https://sites.duke.edu/trfetter/), [Christopher Timmins](https://sites.duke.edu/christophertimmins), and [Douglas H Wrenn](https://aese.psu.edu/directory/dhw121)
 
 ### Works in Progress
+
+1. "Market Power and Network Diversity: Evidence from Internet Backbone"
+
+    with [El Hadi Caoui](https://elhadicaoui.github.io/)
 
 1. "Private and Public Incentives for Testing: Evidence from Stents"
 
