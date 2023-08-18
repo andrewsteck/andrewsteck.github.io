@@ -21,17 +21,27 @@ layout: default
    
    prior version available as [NBER Working Paper 25401](https://www.nber.org/papers/w25401)
 
-   with [T Robert Fetter](https://sites.duke.edu/trfetter/), [Christopher Timmins](https://sites.duke.edu/christophertimmins), and [Douglas H Wrenn](https://aese.psu.edu/directory/dhw121)
+   with [T Robert Fetter](https://sites.duke.edu/trfetter/), [Christopher Timmins](https://www.christophertimmins.com/), and [Douglas H Wrenn](https://aese.psu.edu/directory/dhw121)
 
-### Works in Progress
+3. "Network Diversity, Market Entry, and the Global Internet Backbone"
 
-1. "Market Power and Network Diversity: Evidence from Internet Backbone"
+    [current draft](https://andrewsteck.github.io/uploads/SSRN-id4478868.pdf)
+
+    available at [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4478868)
 
     with [El Hadi Caoui](https://elhadicaoui.github.io/)
+
+### Works in Progress
 
 1. "Private and Public Incentives for Testing: Evidence from Stents"
 
    with [Allan Collard-Wexler](https://sites.duke.edu/collardwexler/), [Matthew Grennan](https://hcmg.wharton.upenn.edu/profile/grennan/), and [Bob Town](https://liberalarts.utexas.edu/prc/directory/faculty/rt24558)
+
+2. "The Rise of Content Providers in the Global Internet Supply Chain"
+
+    with [El Hadi Caoui](https://elhadicaoui.github.io/)
+
+### Works in Hibernation
 
 2. "The Impact of the Fracking Boom on Rents in Pennyslvania"
 
