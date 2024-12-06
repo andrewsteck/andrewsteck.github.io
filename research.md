@@ -14,7 +14,7 @@ layout: default
    
    *Finalist, Young Economists' Essay Award, EARIE, 2022*
 
-2. "Learning by Viewing? Social Learning, Regulatory Disclosure and Firm Productivity in Shale Gas" (Revise & Resubmit, /American Economic Journal: Economic Policy/)
+2. "Learning by Viewing? Social Learning, Regulatory Disclosure and Firm Productivity in Shale Gas" (Revise & Resubmit, *American Economic Journal: Economic Policy*)
 
    [current draft](https://andrewsteck.github.io/uploads/lbv_may20.pdf) 
    <!-- [current draft](https://andrewsteck.github.io/uploads/lbvmain.pdf) (revisions coming soon) -->
@@ -23,7 +23,7 @@ layout: default
 
    with [T Robert Fetter](https://sites.duke.edu/trfetter/), [Christopher Timmins](https://www.christophertimmins.com/), and [Douglas H Wrenn](https://aese.psu.edu/directory/dhw121)
 
-3. "Network Diversity, Market Entry, and the Global Internet Backbone" (Revise & Resubmit, /Review of Economic Studies/)
+3. "Network Diversity, Market Entry, and the Global Internet Backbone" (Revise & Resubmit, *Review of Economic Studies*)
 
     [current draft](https://andrewsteck.github.io/uploads/SSRN-id4478868.pdf)
 
@@ -31,7 +31,7 @@ layout: default
 
     with [El Hadi Caoui](https://elhadicaoui.github.io/)
 
-4. "The Rise of Content Providers in the Global Internet Supply Chain" (Revise & Resubmit, /Information Economics and Policy/)
+4. "The Rise of Content Providers in the Global Internet Supply Chain" (Revise & Resubmit, *Information Economics and Policy*)
 
    available at [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4822129)
 
