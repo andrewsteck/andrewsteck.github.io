@@ -23,7 +23,7 @@ layout: default
 
    with [T Robert Fetter](https://sites.duke.edu/trfetter/), [Christopher Timmins](https://www.christophertimmins.com/), and [Douglas H Wrenn](https://aese.psu.edu/directory/dhw121)
 
-3. "Network Diversity, Market Entry, and the Global Internet Backbone" (Revise & Resubmit, *Review of Economic Studies*)
+3. "Network Diversity, Market Entry, and the Global Internet Backbone" (Conditional Acceptance, *Review of Economic Studies*)
 
     [current draft](https://andrewsteck.github.io/uploads/SSRN-id4478868.pdf)
 
@@ -31,7 +31,7 @@ layout: default
 
     with [El Hadi Caoui](https://elhadicaoui.github.io/)
 
-4. "The Rise of Content Providers in the Global Internet Supply Chain" (Revise & Resubmit, *Information Economics and Policy*)
+4. "The Rise of Content Providers in the Global Internet Supply Chain" (Forthcoming, *Information Economics and Policy*)
 
    available at [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4822129)
 
@@ -46,7 +46,7 @@ layout: default
 
 2. "Data Power: Transmission and Fiber Constraints in the Rollout of Data Centers"
 
-   with [El Hadi Caoui](https://elhadicaoui.github.io/) and [Mert Demirer](https://www.mertdemirer.com/)
+   with [El Hadi Caoui](https://elhadicaoui.github.io/), [Mert Demirer](https://www.mertdemirer.com/), and [Sophie Calder-Wang](https://www.sophiecalderwang.com/)
 
 ### Works in Hibernation
 
