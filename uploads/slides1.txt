@@ -1,63 +1,405 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2822
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\margl1440\margr1440\vieww11520\viewh8400\viewkind0
-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+# METADATA:
+Title: New Presentation
+Theme: minimal
+ShowSlideCount: true
+LogoUrl: 
 
-\f0\fs24 \cf0 # METADATA:\
-Title: New Presentation\
-Theme: david-carson\
-ShowSlideCount: true\
-LogoUrl: \
-\
-# Slide(1):\
-\
-Title: Modern Slides\
-Header: Header text here\
-BigText: This is a slideshow.\
-  Press 'E' to edit, 'F' fullscreen, 'Esc' go back\
-Text: Use arrow keys to navigate.\
-SmallText: smaller\
-TinyText: tiny\
-\
-# Slide(2):\
-\
-Text: This slide shows a table\
-Table:\
-  Header 1 & Header 2\
-  ---\
-  Value 1 & $\\sum_\{i=0\}^n i^2$\
-  ---\
-  Value 2 & Another Value\
-Notes: And notes for later\
-\
-# Slide(3):\
-\
-Hidden: true\
-FullScreenImage: https://files.worldwildlife.org/wwfcmsprod/images/Mountain_Gorilla_Silverback_WW22557/hero_full/cg47pknak_Mountain_Gorilla_Silverback_WW22557.jpg\
-\
-# Slide(4):\
-\
-Title: Raw Text Demo Double After Gorilla\
-Text: This slide *demonstrates* various **features**. For example: $e = mc^2$.\
-Columns:\
-  Column 1\
-  ---\
-  This is the ***left*** column. You can have text and math like $\\alpha + \\beta$.\
-  A blank line creates a new paragraph.\
-\
-  Like this.\
-  ---\
-  And column 3 here.\
-\
-# Slide(5):\
-\
-Image: https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3p5N2UwOGppdTc4NXgzMWN1czI5eTRicGhtZzQ3ZWJ3dXUxNXF1aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pKf7PlSjbtJN6/giphy.gif\
-Text: GIFs work too\
-\
-# Slide(6):\
-\
-Background: zuck3.jpg\
-Title: Zuck\
-BigText: And some text.}
+# Slide(1):
+
+Title: MGT371: Business Technology Strategy
+Header: MGT371
+
+
+
+BigText: Professor Andrew Steck
+
+# Slide(2):
+
+Header: Course Overview
+
+Image: https://andrewsteck.github.io/uploads/mgt371_slide_resources/background_geography.png
+
+Text: A bit about me...
+
+SpeakerNote: blah blah
+
+# Slide(3):
+
+Header: Course Overview
+
+Title: My Research
+
+Text:
+
+My Research:
+- Industrial Organization
+- Firm Learning and Innovation
+- Fibre-Optic Cables and Data Centers
+- Energy Economics
+
+# Slide(4):
+
+Title: Research in Theory
+
+Image: https://andrewsteck.github.io/uploads/mgt371_slide_resources/research_theory.png
+
+Text: What you think research might look like.
+
+# Slide(5):
+
+Title: Research in Practice
+
+Image: https://andrewsteck.github.io/uploads/mgt371_slide_resources/research_scribbles.png
+
+Text: But it actually looks like this.
+
+# Slide(6):
+
+Title: Research in Practice
+
+Image: https://andrewsteck.github.io/uploads/mgt371_slide_resources/research_code.png
+
+Text: Or this.
+
+# Slide(7):
+
+Header: Course Overview
+
+Title: Logistics
+
+Text:
+
+Columns: 
+**Class Meetings:**
+Wednesdays 1-3pm
+MN 3190
+
+---
+**Office Hours:**
+Wednesdays 3-4pm in KN262 
+online by appointment
+
+---
+**Course Website:**
+q.utoronto.ca
+
+# Slide(8):
+
+FullScreenWebsite: https://outlook.office.com/bookwithme/user/639b3de97aed406680bf0e5defca0f13@Rotman.Utoronto.Ca?anonymous&ep=plink
+
+# Slide(9):
+
+Header: Course Overview
+
+Title: Course Aims
+
+Text: By the end of the course, students will be comfortable applying the relevant economic models and reasoning to specific strategic situations faced by firms in the modern economy.
+
+# Slide(10):
+
+Header: Course Overview
+
+Title: Required Reading
+
+Image: https://andrewsteck.github.io/uploads/mgt371_slide_resources/InformationRulesCover.jpg
+
+# Slide(11):
+
+Header: Course Overview
+
+Background: https://andrewsteck.github.io/uploads/mgt371_slide_resources/grove.jpeg
+
+Text:
+"An excellent book! Through a combination of clear, jargon-free English, and crisp, specific examples drawn from real life, *Information Rules* shows how economic principles apply in the age of the Internet."
+
+- Andrew S. Grove, Chairman of the Board, Intel Corporation
+
+# Slide(12):
+
+Header: Course Overview
+
+Background: https://andrewsteck.github.io/uploads/mgt371_slide_resources/schmidt.jpg
+
+Text:
+"*Information Rules* is the first book to explain network economics, the new economics of our lives.  Shapiro and Varian explain all the crazy things that we see happening every day in Silicon Valley and other parts of the world.  This book is a must-read for every business person in the new millennium."
+
+- Eric Schmidt, CEO, Novell, Inc.
+
+# Slide(13):
+
+Header: Course Overview
+
+Background: https://andrewsteck.github.io/uploads/mgt371_slide_resources/bezos.jpeg
+
+Text:
+"*Information Rules* is that rare book that dispassionately and intelligently considers the Internet and its place within the unfolding history of economies and markets.  Authors Shapiro and Varian provide readers with great insight by applying the traditional rules of economics to the emerging information marketplace.  Those interested in participating in this new economy will find far greater success if they follow the rules put forth in this book."
+
+- Jeff Bezos, Founder and CEO, Amazon.com
+
+# Slide(14):
+
+Header: Course Overview
+
+Title: Other Required Reading
+
+Text: Articles (and/or podcasts) to be provided on an ad hoc basis.
+
+# Slide(15):
+
+Header: Course Overview
+
+Title: Marks
+
+Table:
+  Components & Weight
+  ---
+  Class Participation &  10%
+  ---
+  Group Presentation & 20%
+  ---
+  Midterm Exam & 30%
+  ---
+  Final Exam & 40%
+
+# Slide(16):
+
+Header: Course Overview
+
+BigText: Group Presentation
+
+Text:
+
+I will randomly assign students to groups.
+
+The presentations will take place in the final week(s) of the course, in class.
+
+Details on the assignment and the grading scheme TBD.
+
+# Slide(17):
+
+Header: Course Overview
+
+BigText: Midterm Exam
+
+Text:
+- in class
+- pen and paper
+- combination of:
+   - solving models
+   - case-based analysis
+   - multiple-choice
+
+# Slide(18):
+
+Header: Course Overview
+
+BigText: Class Participation
+
+Text:
+
+Marks for showing up, paying attention, and participating.
+
+Emphasis on quality, not quantity.
+
+Absence/tardiness, checking phone, sleeping, repeating questions etc. lose marks.
+
+I grade everyone 1-5 each week, and normalise scores at the end of the semester.
+
+# Slide(19):
+
+Header: Course Overview
+
+Title: Course Technology Policy
+
+Text:
+
+- no phones, laptops or tablets
+
+# Slide(20):
+
+Header: Course Overview
+
+Image: https://andrewsteck.github.io/uploads/mgt371_slide_resources/laptops1.jpg
+
+# Slide(21):
+
+Header: Course Overview
+
+Image: https://andrewsteck.github.io/uploads/mgt371_slide_resources/laptops2.jpg
+
+# Slide(22):
+
+Header: Course Overview
+
+FullScreenImage: https://andrewsteck.github.io/uploads/mgt371_slide_resources/nyt_laptops.png
+
+# Slide(23):
+
+Header: Course Overview
+
+Title: Course Technology Policy
+
+Text: 
+
+- no phones, laptops or tablets
+- browsing is too tempting!
+- hurts own and other learning
+
+# Slide(24):
+
+Header: Course Overview
+
+Title: Course Philosophy
+
+Text:
+
+In this course we will focus on **timeless** and **fundamental** truths.
+
+We will use historical examples and anecdotes to build intuition.
+
+We will also use **economic models** to clarify our thinking and illuminate tradeoffs.
+
+NB that this approach will require some use of formal math (calculus + algebra), though we will try not to get lost in the mathematical weeds.
+
+# Slide(25):
+
+Header: Shapiro & Varian Chapter 1
+
+Title: Information
+
+Text:
+
+*Information* is costly to produce, but cheap to reproduce.  I.e. these industries are characterised by high fixed costs and low marginal costs.
+
+Consumer valuations vary widely, making *price discrimination* an attractive possibility.  This can include the use of versioning and/or delay, and will require IP management.
+
+# Slide(26):
+
+Header: Shapiro & Varian Chapter 1
+
+Title: Information
+
+Text:
+
+*Information* is often an *experience good*; successfully selling it can require free trials / samples and/or careful management of reputation.  *Rights management* is key to pulling this off.
+
+Economics of attention emerging as this book was written.  The attention + targeted ad model has been extremely successful (financially).
+
+# Slide(27):
+
+Header: Shapiro & Varian Chapter 1
+
+Title: Technology
+
+Text:
+
+Information cannot be economically separated from the *technical systems* it relies on for dispersion and use.
+
+High degrees of vertical disintegration means firms must pay close attention to systems and opportunities for collaboration (as well as competition).
+
+# Slide(28):
+
+Header: Shapiro & Varian Chapter 1
+
+Title: Technology
+
+Text:
+
+High fixed costs of technology can lead to *lock-in*, as *switching costs* may be too high to prevent switching to new or better technologies.
+
+Of course whether this is good or bad depends on your perspective!
+
+*Network effects* and *platforms* are more prevalent today than ever; these increase the importance of *timing*, forming consumer and rival *expectations* and the decision to independently or cooperatively form *standards*.
+
+# Slide(29):
+
+Header: Shapiro & Varian Chapter 1
+
+Title: Policy
+
+Text:
+
+How does regulatory policy need to change given the realities of the information economy?
+
+Antitrust legislation typically written decades (or centuries) ago, and relies on prices to determine harm.
+
+Given the ubiquity and importance of modern information platforms and systems, are there new questions of national security and/or sovereignty that need to be addressed?
+
+# Slide(30):
+
+Header: Shapiro & Varian Chapter 1
+
+Title: Approach
+
+Text:
+
+This book is concerned with **models**, **concepts**, and **analysis**.
+
+As opposed to **trends**, **vocabulary**, and **analogies**.
+
+# Slide(31):
+
+Header: Economics Review
+
+Title: Review of Basic Economic Concepts
+
+Text:
+
+Now we'll review a few basic economic concepts that we'll need for the remainder of the course:
+
+- Nash Equilibrium & Game Theory
+
+- Games in Matrix-Form and Tree-Form
+
+- Competition in Prices (Bertrand) and Quantities (Cournot)
+
+# Slide(32):
+
+Hidden: true
+Title: Raw Text Demo
+Text: This slide *demonstrates* various **features**. For example: $e = mc^2$.
+Columns:
+  Column 1
+  ---
+  This is the ***left*** column. You can have text and math like $\alpha + \beta$.
+  A blank line creates a new paragraph.
+
+  Like this.
+  ---
+  And column 3 here.
+
+# Slide(33):
+
+Hidden: true
+Text: This slide shows a table
+Table:
+  Header 1 & Header 2
+  ---
+  Value 1 & $\sum_{i=0}^n i^2$
+  ---
+  Value 2 & Another Value
+Notes: And notes for later
+
+# Slide(34):
+
+Hidden: true
+FullScreenImage: https://files.worldwildlife.org/wwfcmsprod/images/Mountain_Gorilla_Silverback_WW22557/hero_full/cg47pknak_Mountain_Gorilla_Silverback_WW22557.jpg
+
+# Slide(35):
+
+Hidden: true
+FullScreenWebsite: https://www.kevinbryanecon.com
+SpeakerNote: Press p to create a presenter mode window and you'll see your note
+
+# Slide(36):
+
+Hidden: true
+Image: https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3p5N2UwOGppdTc4NXgzMWN1czI5eTRicGhtZzQ3ZWJ3dXUxNXF1aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pKf7PlSjbtJN6/giphy.gif
+Text: GIFs work too
+
+# Slide(37):
+
+Hidden: true
+Background: https://files.worldwildlife.org/wwfcmsprod/images/Mountain_Gorilla_Silverback_WW22557/hero_full/cg47pknak_Mountain_Gorilla_Silverback_WW22557.jpg
+Title: Gorilla
+BigText: And some text.
