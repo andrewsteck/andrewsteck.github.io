@@ -6,360 +6,166 @@ LogoUrl:
 
 # Slide(1):
 
-Title: Progress
+Title: MGT371
 
-BigText: Class 1 - Introduction
+BigText: Class 5 - Lock-In
 
-Text: Sep 17, Rotman, Univ. Toronto
-
-PrintNote: Notes at the bottom of slides in red.
+Text: Oct 1st
 
 # Slide(2):
 
-As you become an adult, you realize that things around you weren't just always there; people made them happen. But only recently have I started to internalize how much tenacity *everything* requires. That hotel, that park, that railway. The world is a museum of passion projects. 
+Today's Agenda:
 
-Text:  *John Collison*
-
-SpeakerNote: Before drywall, interior walls were mostly lath-and-plaster: thin wooden strips nailed to studs, coated with multiple layers of wet plaster. This created durable, fire-resistant, but labor-intensive walls requiring skilled plasterers.
-1916: U.S. Gypsum Company introduced “Sackett Board,” an early form of drywall.
-It was marketed as a faster, cheaper alternative, but adoption was slow since plaster was considered the “proper” finish for quality homes.
-
-PrintNote: Before drywall, interior walls were mostly lath-and-plaster: thin wooden strips nailed to studs, coated with multiple layers of wet plaster. This created durable, fire-resistant, but labor-intensive walls requiring skilled plasterers.
-1916: U.S. Gypsum Company introduced “Sackett Board,” an early form of drywall, marketed as a faster, cheaper alternative, but adoption was slow since plaster was considered the “proper” finish for quality homes. Drywall is cheap, light, can be painted, and is also protective against fire.
+1. Overview of Shapiro & Varian Chapter 5
+2. Tie-in to other pricing strategies
+3. Economic Models of Lock-in
 
 # Slide(3):
 
-FullScreenImage: https://www.asiwalktoronto.com/images/babur.jpg
+Text: "Buyers typically must bear costs when they switch from one information system to another.  Understanding these costs of switching technologies...is fundamental to success in today's economy."
 
-SpeakerNote: Ask class what they notice. Point out all the things that required a great deal of effort, knowledge accretion over time, care, etc.
+Why?
 
-PrintNote: Look at every little thing, from the corbels on the brickwork to the paint that makes the stop sign stay red to the social design to make stop signs work as well.  All of this was new, or new to Toronto, at some point - this is a fairly random, somewhat ugly, corner, and we can see dozens of examples of Progress.
+SpeakerNote: compare buying a new car to a new phone; durable investments in complementary assets; switching costs = lock-in
 
 # Slide(4):
 
-FullScreenImage: https://i0.wp.com/www.kevinbryanecon.com/Class11MaxPerCapitaGDP.png
-
-SpeakerNote: Somewhere like Chad or Nepal today fares better on essentially any indicator of development than England, the wealthiest place in the world, in the early 1800s. This is hard to believe, I know. Life expectancy was in the 30s in England, infant mortality was about 150 per 1000 live births, literacy was minimal, and median wages were perhaps 3 to 4 times subsistence. Chad today has a life expectancy of 50, infant mortality of 90 per 1000, a literacy of 35%, and urban median wages of roughly 3 to 4 times subsistence. Nepal fares even better on all counts. The air from the “dark, Satanic mills” of William Blake would have made Beijing blush, “night soil” was generally just thrown on to the street, children as young as six regularly worked in mines, and 60 to 80 hours a week was a standard industrial schedule. My own ancestors were among the Irish that fled the Potato famine. Mokyr’s earlier work on the famine, which happened in the British Isles after the Industrial Revolution, suggest 1.1 to 1.5 million people died from a population of about 7 million. This is similar to the lower end of the range for percentage killed during the Cambodian genocide, and similar to the median estimates of the death percentage during the Rwandan genocide. That is, even in the British Isles, famines that would shock the world today were not unheard of. And even if you wanted to leave the countryside, it may have been difficult to do so. After Napoleon, serfdom remained widespread east of the Elbe river in Europe, passes like the “Wanderbucher” were required if one wanted to travel, and coercive labor institutions that tied workers to specific employers were common.
-
-PrintNote: Somewhere like Chad or Nepal today fares better on almost every indicator of development than England, the wealthiest place in the world, in the early 1800s. Life expectancy was in the 30s in England, infant mortality was about 150 per 1000 live births, literacy was minimal, and median wages were perhaps 3 to 4 times subsistence.  Chad today has a life expectancy of 50, infant mortality of 90 per 1000, a literacy of 35%, and urban median wages of roughly 3 to 4 times subsistence. Nepal better on all. The air from the “dark, Satanic mills” of William Blake would have made Beijing blush, “night soil” was generally just thrown on to the street, children as young as six regularly worked in mines, and 60 to 80 hours a week was a standard industrial schedule. 
-
-My own ancestors were among the Irish that fled the Potato famine. Joel Mokyr’s work on the famine, which happened in the British Isles after the Industrial Revolution, suggest 1.1 to 1.5 million people died from a population of about 7 million. This is similar to the lower end of the range for percentage killed during the Cambodian genocide, and similar to the median estimates of the death percentage during the Rwandan genocide. After Napoleon, serfdom remained widespread east of the Elbe, passes like the “Wanderbucher” were required if one wanted to travel, and coercive labor institutions that tied workers to specific employers were common.
+FullScreenWebsite:https://www.android.com/intl/en_ca/switch-to-android/
 
 # Slide(5):
 
-FullScreenImage: https://econlife.com/wp-content/uploads/2018/10/Do_Real-Output_and_Real-Wage_Measures_Capture_Reality__The_History_of_Lighting_Suggests_Not.jpg
+Text: In 1980s, Bell Atlantic purchased AT&T 5ESS switches for $3b; useful life of 15 years.  
 
-SpeakerNote: 1000 lumen-hours (a desk lamp for an hour) 
-A Babylonian in 1750 B.C. using a sesame oil lamp: 41.5 hours of work.
-A Parisian in 1800 using a tallow candle: 5.4 hours.
-An American in 1992 using a compact fluorescent bulb: 
-0.00012 hours (less than half a second).
+Problem: AT&T now has monopoly power over Bell for system upgrades
 
-PrintNote: 1000 lumen-hours (a desk lamp for an hour)  took a Babylonian in 1750 B.C. using a sesame oil lamp: 41.5 hours of work, a Parisian in 1800 using a tallow candle: 5.4 hours, a Canadian in 1992 using a compact fluorescent bulb:  less than half a second of work.
+SpeakerNote: AT&T can sell software for $10m a pop (voice recognition, 888 recognition); after-market upgrades account for 30-40% of annual revenue; Bell sued AT&T in 1995 for monopolization.
 
 # Slide(6):
 
-FullScreenImage: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/La_vache_qui_pleure.jpg/960px-La_vache_qui_pleure.jpg
+Text: Lock-in is strategically valuable even when switching costs are much smaller.
 
-SpeakerNote: Crying Cow, even in period of little growth, we still had beauty!
-
-PrintNote: The "crying cow", over 8000 years ago, in S. Algeria. Even in era of little economic progress, we still had beauty! And indeed, we had technical improvements and inventions as well. Less than today, and diffused more slowly, of course.
+1m customers with switching costs of $100 = 1 customer with switching costs of $100m
 
 # Slide(7):
 
-FullScreenImage: https://upload.wikimedia.org/wikipedia/commons/4/45/Tomb_of_Nefertari_2022_75.jpg
-
-SpeakerNote: Nefertari's tomb, 3300 yrs old
-
-PrintNote: Nefertari's tomb, 3300 yrs old. Still brilliant colors today!  Again, beauty, human creativity: none of this is new, or even rare. So why why technical progress so rare?
+FullScreenWebsite: https://www.theglobeandmail.com/investing/article-your-current-mortgage-lender-doesnt-have-to-stress-test-you-at-renewal/
 
 # Slide(8):
 
-BigText: How did this happen?
+Text: Switching costs offer a reprieve from harsh Bertrand Competition.
 
-Text: Let's introduce each other. 15 seconds each, give me your name, why you are here, and a definition of 'progress'
+NPV of customer = total switching cost.
+
+SpeakerNote:  numerical example here.
 
 # Slide(9):
 
-BigText: My definition: **that human life can and will improve because of purposeful human action**
-
-SpeakerNote: This happens in rare places, rare orgs, rare times
-
-PrintNote: Big spikes of progress happen in rare places, rare orgs, rare times. Our goal is to know where. And don't forget the "purposeful human action" part: these rare places, orgs, times progress largely because of deliberate choices by humans. Why there, and then?
+Table: Type of Lock-In & Switching Cost
+---
+Contractual commitments & Compensatory Damages
+---
+Durable Purchases & Replacement costs
+---
+Brand-specific training & Learning (direct and indirect)
+---
+Information and Databases & Converting data to new format
 
 # Slide(10):
 
-BigText: My definition: **that human life can and will improve because of purposeful human action**
-
-Text: But why? What must be true in order for that purposeful human action to happen? Specific cultural features? Incentives? Liberty? Science? Organizational features? Cities?
+Table: Type of Lock-In & Switching Cost
+---
+Specialised Suppliers & Funding of New Supplier
+---
+Search Costs & Combined buyer/seller; includes learning
+---
+Loyalty Programs & Lost Benefits
+---
+Price Obfuscation & Difficulty Perceiving Competition
 
 # Slide(11):
 
-BigText: Is this 'progress' just big top-down social engineering projects?
+Title: Durable Purchases
 
-PrintNote: No!  The history of modernism: we plan social progress like engineers from the top, from Le Corbusier's Paris plan to (more successfully) things like DARPA or China's high speed rail system. But we will study where and when top-down projects work and where they don't.
+Text: 
+- lock-in falls as equipment depreciates
+- if complementary assets, lock-in is sum of parts
+- *offer early upgrades to maximise lock-in!*
 
 # Slide(12):
 
-BigText: Progress is not just history. It's something ***you can do***. In your city. In your organizations. 
-
-BigText: ***Progress is a choice***
-
-PrintNote: Goal of this class is partly for you to learn. But mostly for you to do after you graduate!
+FullScreenWebsite: https://www.theglobeandmail.com/world/article-lockheed-martin-offers-to-create-jobs-in-canada-if-ottawa-commits-to/
 
 # Slide(13):
 
-BigText: "Great things are done when men and mountains meet;
-This is not done by jostling in the street." 
-Text: William Blake
+Text: NB that high-tech lock-in tends to be more durable than low-tech.
 
-SpeakerNote: So here Blake is saying that progress comes about because ambition meets a need. Many folks beliefs. What might you think? We'll clean this up during the term.
-
-PrintNote: So here Blake is saying that progress comes about because ambition meets a need. This is one of the many folk beliefs about why progress happens. Is Blake right?  How would you know? Putting rigor on these folk beliefs is what we'll do this term.
+Durable equipment purchases wear out, but specialised databases live and grow!
 
 # Slide(14):
 
-FullScreenWebsite: https://www.youtube.com/embed/APoxWo3eaLA?si=z1DUXjBBiBihwbQK&amp;start=125
+Title: Brand-Specific Training
 
-SpeakerNote: Ask students how you might do this on a wide piece of weaving
-
-PrintNote: A traditional loom with shuttle. These have existed since before we had writing. But look: is there a simple improvement?  Consider a wide piece of textile you want to make which is too wide for you to reach from one side to the other: we used two weavers at each end in that case. https://www.youtube.com/embed/APoxWo3eaLA?si=z1DUXjBBiBihwbQK&amp;start=125
+Text: 
+- re-training personnel is costly
+- (+ opportunity cost)
+- tends to rise over time as expertise grows
 
 # Slide(15):
 
-FullScreenWebsite: https://www.youtube.com/embed/Yj3ewXkyEE0?si=P0zPtflKaI2lvk2m&amp;start=32
+Title: Information & Databases
 
-PrintNote: The Kay flying shuttle!  Note that there is no reason we couldn't have invented this in 3000 BC. But we didn't. Why? Another belief that might be true about progress: nobody *tries* to invent. They don't have the incentive to do so. This isn't quite right - people have invented throughout history.  But we'll discuss this more in our classes on incentives and on ambition. See https://www.antonhowes.com/blog/is-innovation-in-human-nature by an economic historian on this topic. https://www.youtube.com/embed/Yj3ewXkyEE0?si=P0zPtflKaI2lvk2m&amp;start=32
+Text: 
+- big switching costs when new formats appear (VHS to DVD)
+- lower (but non-zero!) for purely digital formats
+- 'open interfaces' a good option for buyers
 
 # Slide(16):
 
-BigText: 話說天下大勢，分久必合，合久必分。
+Title: Specialised Suppliers
 
-SpeakerNote: huà shuō tiān xià dà shì, fēn jiǔ bì hé, hé jiǔ bì fēn. It's said about the world, when divided, it unites, when united, it divides
-
-PrintNote: It's said about the world, when divided, it unites, when united, it divides - the first line of Romance of the Three Kingdoms.  A famous Chinese line expressing the idea of "cycles" rather than progress.  This cyclical belief was common in many societies historically!
+Text: 
+- DoD procurement
+- IBM + Intel vs AMD
+- 'bad' in short-run, very good in long-run!
 
 # Slide(17):
 
-BigText: Does humanity progress (morally, in terms of knowledge, or technology, or "quality of life")?
+Title: Search Costs
 
-BigText: **Decline, Cycles, or Progress: belief in 1 and 2 was/is common**
-
-PrintNote: See the debate between Bury and Nisbet on this. Bury thinks, as did most in his era, that almost all historic societies didn't belief in progress: it was all decline from a golden age or else just cycles of up and down. And recall our graph of the richest places over time: not much other than cycles around a low base until maybe 1600, and even then not much until 1820.
+Text: 
+- have fallen in digital age
+- still costly for customers to review and evaluate proposals
+- can be counteracted by price obfuscation (more below)
 
 # Slide(18):
 
-FullScreenImage: https://upload.wikimedia.org/wikipedia/commons/5/55/Degrowth-2014-leipzig-demonstration-1-klimagerechtigkeit-leipzig.jpg
+Title: Loyalty Programs
 
-SpeakerNote: Good life, not growth mania from a Degrowth march. Ronald Wright in his 2004 Massey Lecture, A Short History of Progress, goes from Easter Islands to the Mayans and onward to show that human "hubris" about progress means we sow the seeds of our destruction, especially environmentally. Degrowthers. The cycle of history in many cultures. And of course the Rev. Malthus and his Iron Law
-
-PrintNote: Good life, not growth mania from a Degrowth march. Ronald Wright in his 2004 Massey Lecture, A Short History of Progress, goes from Easter Islands to the Mayans and onward to show that human "hubris" about progress means we sow the seeds of our destruction, especially environmentally. Degrowthers like the Club of Rome. The cycle of history in many cultures. And of course the Rev. Malthus and his Iron Law on why continued progress is impossible.  There are many people who do not believe progress is possible, or believe that what we call progress is bad!
+Text: 
+- ubiquitous (coffee to airlines)
+- two-part cost (lost benefits + tiers of service)
 
 # Slide(19):
 
-BigText: Will be know more, be happier, act more morally? (or are these cyclical/declining) 
-BigText: Does that result from actions we take? (or random, God, nature)
-
-SpeakerNote: the Biblical fall from knowing too much, the Buddhist renunciation of desire in the world of the living, some environmentalist groups. That is, belief in progress is not universal. "sustainable living" "meets our needs", Schumacher's "enoughness", "xiaokang" (enough wellbeing) etc. vs. attempting to ever increase the standard of human living
-
-PrintNote: The Biblical fall from knowing too much, the Buddhist renunciation of desire in the world of the living, some environmentalist groups all believe in a decline. Consider ideas like "sustainable living" "meets our needs", EF Schumacher's "enoughness", "xiaokang" ("enough "wellbeing ) etc. vs. progress: attempting to ever increase the standard of human living
+"As on-line commerce explodes, more and more companies will adopt loyalty programs giving preferential treatment to customers based on their historical purchases precisely to create such switching costs."
 
 # Slide(20):
 
-FullScreenImage: https://www.pewresearch.org/wp-content/uploads/sites/20/2023/11/SR_23.11.21_ai-roundup_1.png
-
-PrintNote: And if you follow this chart to 2025, the pessimism has not changed despite AI advances in past two years!
+FullScreenWebsite: https://www.skipthedishes.com/rewards
 
 # Slide(21):
 
-Singing the great achievements of the present,
-Singing the strong light works of engineers,
-Our modern wonders, (the antique ponderous Seven outvied,)
-In the Old World the east the Suez canal,
-The New by its mighty railroad spann’d,
-The seas inlaid with eloquent gentle wires…
-You captains, voyagers, explorers, yours,
-You engineers, you architects, machinists, yours…
+Title: Lock-In Cycle
 
-SmallText: *Whitman, Passage to India*
-
-SpeakerNote: There was a real hayday of progress!  Poems, speeches, ticker tape parades. But as Nisbet mentions, the past 50 years have been an era where progress isn't taken for granted.
-
-PrintNote: Consider Nisbet here. There was a real era of progress in the cultural norm esp. in the US from 1870 to 1930, and perhaps even to 1973.  Environmental movement, the World Wars, cultural shifts all make it hard to imagine that at one time you had poems and speeches and parades devoted to "new things" and inventions!
+Text: 
+1. Brand Selection
+2. Sampling
+3. Entrenchment
+4. Lock-in
 
 # Slide(22):
 
-Text: Who would live in the stone age or the bronze or the iron or the lacustrine? Who does not prefer the age of steel, of gold, of coal, petroleum, cotton, steam, electicity, and the stethoscope?
-Text: Emerson (!)
+Note on Next Week:
 
-SpeakerNote: Even the Romantics
-
-PrintNote: Even the Romantics - lovers of Nature and Tradition - wrote about who wouldn't prefer petroleum and electricity! Now that is an era of widespread belief in progress...
-
-# Slide(23):
-
-FullScreenImage: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Turner_-_Rain%2C_Steam_and_Speed_-_National_Gallery_file.jpg/960px-Turner_-_Rain%2C_Steam_and_Speed_-_National_Gallery_file.jpg
-
-SpeakerNote: Rain Steam and Speed by Turner, 1844. Romantic paintings of....trains spewing out pollution! We were dead in an era of progress by then. Why? What changed? Just observation of improvements? Indeed, some went too far: esp. in Europe, there was a lot of "scientists will be more moral" - Condorcet in Stage Ten, Bacon in his New Atlantis - scientists can reason and hence should rule. And of course this type of scientific despotism exists in Marx as well - the New Man.
-
-PrintNote: Rain Steam and Speed by Turner, 1844. Romantic paintings of....trains spewing out pollution! What changed? To be fair, some went too far, moving a bit too much into "us modern scientist types should be in charge".  Esp. in Europe, there was a lot of "scientists will be more moral" - Condorcet in Stage Ten of Esquisse, Bacon in his New Atlantis - scientists can reason and hence should rule. And of course this type of scientific despotism exists in Marx as well - the New Man.
-
-# Slide(24):
-
-FullScreenImage: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Candide1759.jpg/500px-Candide1759.jpg
-
-SpeakerNote: we are not Prof. Pangloss, we are in le meilleur des mondes possibles, the best of all possible worlds. This is crazy -disasters happen. But we can *make* a better world.  Our job is to neither deny progress nor take it for granted, but to understand when, where, and why it happens.
-
-PrintNote: A caveat is that we are not Prof. Pangloss from Voltaire's Candide, who thought we are in le meilleur des mondes possibles, the best of all possible worlds. This is crazy -disasters happen. But we can *make* a better world.  Our job is to neither deny progress nor take it for granted, but to understand when, where, and why it happens.
-
-# Slide(25):
-
-BigText: It may surprise many to be told that the notion of Progress, which now seems so easy to apprehend, is of comparatively recent origin.
-Text: JB Bury, 1920
-
-SpeakerNote: Note how Bury feels so antimodern; many people today do NOT think progress is natural. But remember whitman and emerson and the rest.
-
-PrintNote: Note how Bury feels so antimodern; many people today do NOT think progress is natural. But remember Whitman and Emerson and the rest. In his era, it was taken for granted.
-
-# Slide(26):
-
-Text: You may conceive civilisation as having gradually advanced in the past, but you have not got the idea of Progress until you go on to conceive that it is destined to advance indefinitely in the future.
-Text: JB Bury, 1920
-
-SpeakerNote: Ask class in historic readings in their culture what the general vibe is on progress
-
-PrintNote: In your culture, what is dominant? That we have declined from a societal peak, that this are in cycles, or are that things are improving in a way under human control?
-
-# Slide(27):
-
-BigText: *Damnosa quid*
-*non imminuit dies?*
-
-Text:  Horace, Epistles
-
-SpeakerNote: What damned thing doesn't get worse over time?  The decline from the Golden Age type of idea is all over antiquity. There was a general "change is bad" as in Aristotle - there are perfect things and we humans corrupt them. Now Nesbit pushes back on this a bit.
-
-PrintNote: The Roman Horace writes: What damned thing doesn't get worse over time?  The "decline from the Golden Age" type of idea is all over antiquity. There was a general "change is bad" as in Aristotle - there are perfect things and we humans corrupt them. Now Nesbit pushes back on this a bit - Bury's view that ALL pre-modern societies had this view universally is clearly wrong, even though Bury's view of the past was definitely widely believed by classicists in his era (and some today).
-
-# Slide(28):
-
-Text: Many discoveries are reserved for future ages, when our memory will have faded from men's minds. We imagine ourselves initiated in the secrets of nature; we are standing on the threshold of her temple.
-Text: Seneca
-
-SpeakerNote: So some at least believed in the addition of knowledge (how can one not? Well, one may believe in cycles of rise and fall, for example, or believe there is an upper limit, or believe that what we know is revealed at the time of God's choosing)
-
-PrintNote: Lines like this, from the great Roman philosopher and statesman, gives evidence that some at least believed in the addition of knowledge (how can one not - isn't it obvious that there is accumulations of knowledge and so on? Well, one may believe in cycles of rise and fall, for example, or believe there is an upper limit, or believe that what we know is revealed at the time of God's choosing)
-
-# Slide(29):
-
-BigText: Epicurus and Lucretius - incredible advances in science (the atom! human progress!)
-
-BigText: But like many religious theories of progress, creation is the apex?
-
-SpeakerNote: Bury absolutely believed, as did Auguste Comte, that religion prohibited true belief in progress. Nesbit highly disagrees. But 'human action can figure out things, on its own timeframe, with the prospect of pure betterment....' it does feel contrary to many religions, no? Especially revelatory/prophetic ones? But we'll come back to this.  For students: does a belief in Fate as in the Greeks contradict progress?  "Inshallah", I heard many times in the Mideast.  Augustine, to Bury, also is too millenarian to care about progress in this world.
-
-PrintNote: Bury absolutely believed, as did Auguste Comte, that religion prohibited true belief in progress. Nesbit highly disagrees. But 'human action can figure out things, on its own timeframe, with the prospect of pure betterment....' it does feel contrary to many religions, no? Especially revelatory/prophetic ones? E.g., Augustine, to Bury, is too millenarian to care about progress in this world. For students: does a belief in Fate as in the Greeks contradict progress?
-
-# Slide(30):
-
-BigText: Nisbet argues there was *some* belief in progress prior to the Enlightment
-
-Text: The Gods did not reveal to men all things from the beginning, but men through their own search find in the course of time that which is better.
-Text: Xenophanes
-
-SpeakerNote: Partly what's going on is that Nisbet sees Christianity in particular as forward looking. His five rules for progress: past has worth, economic and technical improvement has worth, Civilization matters (esp. western civ), Life of Earth matters, reason exists.  Religion often involved human stewardship while on Earth, and religion often inspired the big pushes - think of the Arab expansion, for instance.
-
-PrintNote: Partly what's going on is that Nisbet sees Christianity in particular as forward looking. His five rules for progress: past has worth, economic and technical improvement has worth, Civilization matters (esp. western civ), Life of Earth matters, reason exists.  Religion often involved human stewardship while on Earth, and religion often inspired the big pushes - think of the Arab expansion up to Harun ar-Rashid, for instance - a great era of progress!
-
-# Slide(31):
-
-BigText: US founders explicitly influenced by Greece and Christianity, yet:
-Text: [Congress has right to] promote the Progress of Science and useful Arts, by securing for limited Times to Authors and Inventors the exclusive Right to their respective Writings and Discoveries
-Text: US Constitution
-
-SpeakerNote: ONLY mention of an individual right in the Constitution is about helping progress the science and useful arts! Bill of Rights came later
-
-PrintNote: Amazing fact, this "promote the Progress of Science" is ONLY mention of an individual right in the Constitution is about helping progress the science and useful arts! Bill of Rights came later.  So per Nisbet, the Greek- and Christianity-influenced US Founding Fathers were very much on board with what we know call progress.
-
-# Slide(32):
-
-Text:  Such is the object of the work I have undertaken; the result of which will be to show, from reasoning and from facts, that **no bounds have been fixed to the improvement of the human faculties**; that the pefectibility of man is absolutely indefinite; that the progress of this perfectibility, henceforth above the control of every power that would impede it..."
-Text: Condorcet, *Esquisse*
-
-SpeakerNote: Condorcet, Esquisse d'un Tableau Historique des progres de l'esprit humain
- - Mankind is perfectable based on improvement via scientific progress
- - Wrote well hiding out, his constitution during the French Revolution was rejected and he was branded a traitor
- - a legend of economics and social science
-
-PrintNote: Condorcet, in his Esquisse d'un Tableau Historique des progres de l'esprit humain: Mankind is perfectable based on improvement via scientific progress. He wrote this while in hiding, his constitution during the French Revolution was rejected and he was branded a traitor. Incidentally, Condorcet is also a legend of economics and social science - in some ways the first modern mathematical social scientist.
-
-# Slide(33):
-
-BigText: Sidenote: any idea what Condorcet was doing while writing about the perfectibility of man via moral and technical progress?
-
-SpeakerNote: he was hiding from arrest during the French Revolution
-
-PrintNote: Hiding from arrest during the French Revolution. And still optimistic about human perfectibility!  Interestingly enough, Condorcet admits Europeans have been barbaric in many countries: "Then will arrive the moment in which the sun will observe in its course free nations only...in which tyrants and slaves, priests and their stupid or hypocritical instruments, will no longer exist but in history...in which our only concern will be to lament their past victims and dupes..."
-
-# Slide(34):
-
-BigText: Philosophy has no longer any thing to guess...all it has to do is to collect and arrange facts, and exhibit the useful truths which arise from them as a whole
-Text: Condorcet, *Esquisse*
-
-SpeakerNote: Scientific method - empirical facts - is how we progress. Is that enough? Just collect facts? Point out Leibniz, "Calculemus" to solve all moral debates. Condorcet admits Europeans have been barbaric in many countries - but he blames the earlier non-free state of the European countires. "Then will arrive the moment in which the sun will observe in its course free nations only, acknowledging no other master than their reason; in which tyrants and slaves, priests and their stupid or hypocritical instruments, will no longer exist but in history and upon the stage; in which our only concern will be to lament their past victims and dupes, and, by the recollection of their horrid enormities, to exercise a vigilant circumspection, that we may be able instantly to recognise and effectually to stifle by the force of reason, the seeds of superstition and tyranny, should they ever presume again to make their appearance upon the earth." Just as science has laws, so does human behavior, and they can be learned and improved. He also was pro women's rights like Mill: Among those causes of human improvement that are of most importance to the general welfare, must be included, the total annihilation of the prejudices which have established between the sexes an inequality of rights, fatal even to the party which it favours. In vain might we search for motives by which to justify this principle, in difference of physical organization, of intellect, or of moral sensibility. It had at first no other origin but abuse of strength, and all the attempts which have since been made to support it are idle sophisms.
-
-PrintNote: Scientific method - empirical facts - is how we progress. Is that enough? Just collect facts? Recall Leibniz, "Calculemus" to solve all moral debates. Maybe? And just as science has laws, so does human behavior. Condorcet also was pro women's rights like Mill: "Among those causes of human improvement that are of most importance to the general welfare, must be included, the total annihilation of the prejudices which have established between the sexes an inequality of rights, fatal even to the party which it favours..."
-
-# Slide(35):
-
-BigText: If it's just about collecting facts and then perfecting mankind through this, what takes so long, as far as Condorcet is concerned?
-
-SpeakerNote: Philosophers (scientists) have prejudices, common man doesn't learn the fact we already know, powerful push back
-
-PrintNote: Condorcet sees three reasons progress is not automatic: philosophers (scientists) have prejudices, common man doesn't learn the facts we already know, powerful people push back against the new ideas.  Consistent with your view of where progress is hindered?
-
-# Slide(36):
-
-FullScreenImage: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Faraday_disk_generator.jpg/960px-Faraday_disk_generator.jpg
-
-SpeakerNote: A "Faraday disk" dynamo to generate DC. Why did electricity take so long?
-
-PrintNote:  A "Faraday disk" dynamo to generate DC. Why did electricity take so long?  Paul David's short Dynamo and the Computer gives a great history lesson here.
-
-# Slide(37):
-
-FullScreenImage: https://s3files.core77.com/blog/images/549455_81_58982_VVxCIx9m5.jpg
-
-SpeakerNote: 1989 David Dynamo and the Computer - people didn't see the computer contributing to productivity. 1) is productivity progress? 2) why so slow?  40 years to electrify half of manufacturing in US after Edison in 1882. We have existing investments that may be bad fits ("architecture", incl laws and training!) and we don't know quite how to use it (lots of spillovers - see turbines and belts -> unit drive electric -> assembly line)
-
-PrintNote: 1989 David Dynamo and the Computer - people didn't see the computer contributing to productivity. 1) is productivity progress? 2) why so slow?  40 years to electrify half of manufacturing in US after Edison in 1882. We have existing investments that may be bad fits ("architecture", incl laws and training!) and we don't know quite how to use it (lots of spillovers - see turbines and belts -> unit drive electric -> turn factory sideways in suburbs -> assembly line -> much more productive, but this takes decades for reasons above).
-
-# Slide(38):
-
-BigText: Course Logistics
-
-Text: You **must** do the reading prior to class. I will lecture for only a half hour at most.
-
-Text: The term paper is the grading. What do I want? A **novel** discussion of some aspect of progress, beyond what GPT can tell me - *I will send it to employers* if you meet a quality bar and ask me to do so!
-
-# Slide(39):
-
-BigText: Course Logistics
-
-Text: What we will cover: 
-Text: Why did the industrial revolution happen? Are science, liberty, or cities necessary for progress? Is progress driven by societies or a few great minds? How do ambition, incentives, and organizations matter? What about risk with new things? And who should choose how we progress?
-
-# Slide(40):
-
-BigText: Course Logistics
-
-Text: AI and Technology Policy
-Text: You may (and should!) use AI to help you learn, but **do the reading first**
-Text: I will give you questions each Wednesday evening to help guide your reading
-Text: Please, no laptop or phone use in class
-
-# Slide(41):
-
-BigText: Next week
-BigText: *The Industrial Revolution*
-Text: Why it happened, and why it's the most important change in human history
+1. Shapiro & Varian Chapter 5
+2. Midterm Exam Review
