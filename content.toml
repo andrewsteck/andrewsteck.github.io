@@ -31,6 +31,10 @@ label = "ORCID"
 url = "https://orcid.org/0009-0005-4543-689X"
 
 [[link]]
+label = "SSRN"
+url = "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3298713"
+
+[[link]]
 label = "GitHub"
 url = "http://github.com/andrewsteck"
 
