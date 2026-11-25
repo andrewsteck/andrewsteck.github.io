@@ -1,0 +1,120 @@
+/* Styles for andrewsteck.github.io. tools/build.py copies this file into index.html.
+   Design chosen by Andrew, November 2026: serif type, sidebar, maroon accent,
+   dark mode that follows the system and can be switched with the button. */
+
+/* Newsreader, kept on the site in fonts/ (SIL Open Font License; see fonts/OFL.txt).
+   Variable fonts: one upright and one italic file cover every weight. The -ext files
+   hold accented letters beyond Western European and load only when a page needs them. */
+@font-face { font-family:Newsreader; font-style:italic; font-weight:200 800; font-display:swap; src:url(fonts/newsreader-italic-latin-ext.woff2) format('woff2'); unicode-range:U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+@font-face { font-family:Newsreader; font-style:italic; font-weight:200 800; font-display:swap; src:url(fonts/newsreader-italic-latin.woff2) format('woff2'); unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+@font-face { font-family:Newsreader; font-style:normal; font-weight:200 800; font-display:swap; src:url(fonts/newsreader-latin-ext.woff2) format('woff2'); unicode-range:U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+@font-face { font-family:Newsreader; font-style:normal; font-weight:200 800; font-display:swap; src:url(fonts/newsreader-latin.woff2) format('woff2'); unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+/* Light palette. */
+:root {
+  color-scheme:light;
+  --paper:#faf8f3; --side:#efe9dc; --ink:#1c1a17; --body:#3b3731; --muted:#625c53; --line:#d3cab8; --accent:#7a1f2b;
+  --side-ink:#1c1a17; --side-muted:#625c53; --side-link:#7a1f2b; --side-line:#d3cab8;
+  --h2:#7a1f2b; --h2-rule:#7a1f2b; --yr:#7a1f2b;
+  --cv-bg:#7a1f2b; --cv-ink:#faf8f3; --cv-border:#7a1f2b; --cv-hover:#5e1620; --cv-hover-ink:#faf8f3;
+  --bar-w:5px;
+  --gutter:max(0px, calc((100vw - 1140px) / 2));
+}
+
+/* Dark palette, written twice: once for the system setting, once for the button.
+   Keep the two blocks identical; the build stops if they differ. */
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    color-scheme:dark;
+    --paper:#191714; --side:#201d19; --ink:#ebe5d9; --body:#c9c2b4; --muted:#9c9587; --line:#37322a; --accent:#d07a90;
+    --side-ink:#ebe5d9; --side-muted:#9c9587; --side-link:#d07a90; --side-line:#37322a;
+    --h2:#ebe5d9; --h2-rule:transparent; --yr:#9c9587;
+    --cv-bg:transparent; --cv-ink:#d07a90; --cv-border:#d07a90; --cv-hover:#d07a90; --cv-hover-ink:#201d19;
+    --bar-w:0px;
+  }
+}
+:root[data-theme="dark"] {
+    color-scheme:dark;
+    --paper:#191714; --side:#201d19; --ink:#ebe5d9; --body:#c9c2b4; --muted:#9c9587; --line:#37322a; --accent:#d07a90;
+    --side-ink:#ebe5d9; --side-muted:#9c9587; --side-link:#d07a90; --side-line:#37322a;
+    --h2:#ebe5d9; --h2-rule:transparent; --yr:#9c9587;
+    --cv-bg:transparent; --cv-ink:#d07a90; --cv-border:#d07a90; --cv-hover:#d07a90; --cv-hover-ink:#201d19;
+    --bar-w:0px;
+}
+
+* { box-sizing:border-box; }
+html { scroll-behavior:smooth; }
+body { margin:0; font:19px/1.6 Newsreader, "Iowan Old Style", Georgia, serif; color:var(--ink); background:var(--paper); border-top:var(--bar-w) solid var(--accent); }
+a { color:var(--accent); text-decoration:underline; text-decoration-color:color-mix(in srgb, currentColor 38%, transparent); text-underline-offset:3px; }
+a:hover { text-decoration-color:currentColor; }
+.caps { font:500 .7rem/1.7 system-ui, sans-serif; letter-spacing:.13em; text-transform:uppercase; }
+.wrap { display:grid; grid-template-columns:calc(var(--gutter) + 320px) minmax(0,1fr); }
+
+/* Sidebar */
+aside { position:sticky; top:0; align-self:start; height:100vh; overflow:auto; display:flex; flex-direction:column; padding:52px 34px 30px calc(var(--gutter) + 34px); background:var(--side); border-right:1px solid var(--line); }
+aside img { width:150px; height:150px; border-radius:2px; display:block; margin:0 0 22px; filter:saturate(.92); }
+aside h1 { font-size:1.9rem; font-weight:600; line-height:1.15; letter-spacing:-.01em; margin:0 0 10px; color:var(--side-ink); }
+aside .role { color:var(--side-muted); margin:0 0 24px; }
+aside a { color:var(--side-link); }
+aside ul { list-style:none; margin:0; padding:0; }
+aside .links li { margin:0 0 3px; font-size:.95rem; }
+aside .links li.cv { margin:0 0 14px; }
+aside .links li.cv a { display:inline-block; border:1px solid var(--cv-border); background:var(--cv-bg); color:var(--cv-ink); border-radius:2px; padding:6px 13px; text-decoration:none; }
+aside .links li.cv a:hover { background:var(--cv-hover); border-color:var(--cv-hover); color:var(--cv-hover-ink); }
+aside nav { margin-top:26px; padding-top:18px; border-top:1px solid var(--side-line); }
+aside nav a { display:block; color:var(--side-ink); text-decoration:none; padding:2px 0; }
+aside nav a:hover { color:var(--side-link); }
+aside .bottom { margin-top:auto; padding-top:26px; color:var(--side-muted); }
+aside .bottom p { margin:8px 0 0; }
+#theme { font:500 .7rem/1 system-ui, sans-serif; letter-spacing:.13em; text-transform:uppercase; color:var(--side-ink); background:transparent; border:1px solid var(--side-line); border-radius:2px; padding:8px 11px; cursor:pointer; }
+#theme:hover { border-color:var(--side-link); color:var(--side-link); }
+
+/* Main column */
+main { padding:54px 52px 90px; max-width:800px; }
+main p.lead { font-size:1.28rem; line-height:1.5; margin:0 0 16px; }
+main p.int { margin:0; color:var(--body); }
+main p.int b { color:var(--ink); }
+h2 { font-size:1.5rem; font-weight:500; font-style:italic; color:var(--h2); margin:54px 0 6px; border-bottom:1px solid var(--line); scroll-margin-top:20px; }
+h2 span { display:inline-block; padding-bottom:5px; margin-bottom:-1px; border-bottom:2px solid var(--h2-rule); }
+
+/* One paper */
+.row { display:grid; grid-template-columns:3.4rem minmax(0,1fr); gap:0 14px; padding:18px 0; border-bottom:1px solid var(--line); }
+.row .yr { font:600 .8rem/2.1 system-ui, sans-serif; color:var(--yr); letter-spacing:.04em; }
+.row h3 { font-size:1.14rem; font-weight:600; line-height:1.35; margin:0 0 2px; }
+.row .m { margin:0; font-size:1rem; color:var(--body); }
+.row .tags { color:var(--muted); margin:9px 0 0; font-size:.66rem; }
+.row .l { margin:8px 0 0; font-size:.95rem; display:flex; flex-wrap:wrap; gap:2px 18px; }
+details summary { cursor:pointer; color:var(--accent); list-style:none; font-size:.95rem; margin-top:4px; }
+details summary::-webkit-details-marker { display:none; }
+details summary::before { content:"\25B8\00A0"; font-size:.8em; }
+details[open] summary::before { content:"\25BE\00A0"; }
+details p { margin:10px 0 0; font-size:.98rem; line-height:1.6; max-width:64ch; color:var(--body); }
+
+/* Teaching and contact */
+ul.courses { margin:6px 0 0; padding:0; list-style:none; }
+ul.courses li { padding:11px 0; border-bottom:1px solid var(--line); }
+.where { color:var(--muted); margin:14px 0 0; }
+.contact { display:grid; grid-template-columns:1fr 1fr; gap:24px; margin-top:18px; font:400 .82rem/1.6 system-ui, sans-serif; color:var(--muted); }
+.contact b { color:var(--ink); display:block; font-weight:600; }
+.upd { display:none; margin:34px 0 0; color:var(--muted); }
+
+/* Phones and narrow windows: the sidebar becomes a header block. */
+@media (max-width:860px) {
+  body { font-size:18px; }
+  .wrap { grid-template-columns:1fr; }
+  aside { position:static; height:auto; overflow:visible; display:grid; grid-template-columns:88px minmax(0,1fr); gap:0 18px; align-items:start; padding:26px 22px 20px; border-right:0; border-bottom:1px solid var(--line); }
+  aside img { width:88px; height:88px; margin:0; grid-row:1 / span 2; }
+  aside h1 { font-size:1.6rem; margin:0 0 6px; }
+  aside .role { margin:0; }
+  aside .links { grid-column:1 / -1; display:flex; flex-wrap:wrap; align-items:center; gap:6px 18px; margin-top:18px; }
+  aside .links li, aside .links li.cv { margin:0; }
+  aside nav { display:none; }
+  aside .bottom { grid-column:1 / -1; margin-top:16px; padding-top:0; }
+  aside .bottom p { display:none; }
+  main { padding:30px 22px 70px; }
+  main p.lead { font-size:1.18rem; }
+  .row { grid-template-columns:1fr; }
+  .row .yr { line-height:1.4; margin-bottom:2px; }
+  .contact { grid-template-columns:1fr; gap:16px; }
+  .upd { display:block; }
+}

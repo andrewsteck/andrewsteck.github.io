@@ -1,0 +1,198 @@
+# Content of andrewsteck.github.io.
+# Edit this file, then run:   python3 tools/build.py
+# The script rewrites index.html. See README.md for the whole routine.
+
+name = "Andrew Steck"
+role = ["Assistant Professor of Strategic Management", "University of Toronto Mississauga", "Rotman School of Management"]
+description = "Andrew Steck, Assistant Professor of Strategic Management, University of Toronto."   # for search engines and link previews
+url = "https://andrewsteck.github.io/"
+photo = "DSC_0012_edit_small.png"
+cv = "uploads/steck_cv.pdf"
+email = "andrew.steck@utoronto.ca"
+
+# The bio is HTML: links are written out in full.
+bio = '''
+I am an Assistant Professor of Strategic Management at the <a href="https://www.utoronto.ca">University of Toronto</a>, cross-appointed between the <a href="https://www.utm.utoronto.ca/management/">Department of Management</a> at the <a href="http://www.utm.utoronto.ca">University of Toronto Mississauga</a>, and the <a href="http://www.rotman.utoronto.ca">Rotman School of Management</a>.
+I graduated with a PhD in <a href="http://econ.duke.edu">Economics</a> from <a href="https://www.duke.edu">Duke University</a> in 2018.
+'''
+
+interests = ["Industrial Organization", "Economics of Innovation", "Economics of Internet Infrastructure", "Energy Economics", "Applied Microeconomics"]
+
+# Topic labels under each paper. Set to false to hide them all.
+show_topics = true
+
+# Links in the sidebar, under the CV button and the email address.
+[[link]]
+label = "Google Scholar"
+url = "https://scholar.google.com/citations?user=B5VyQewAAAAJ&hl=en&oi=ao"
+
+[[link]]
+label = "GitHub"
+url = "http://github.com/andrewsteck"
+
+[[link]]
+label = "LinkedIn"
+url = "https://www.linkedin.com/in/asteck"
+
+# Co-authors' web pages. A name with no entry here is shown without a link.
+[coauthors]
+"El Hadi Caoui" = "https://elhadicaoui.github.io/"
+"Christopher Timmins" = "https://www.christophertimmins.com/"
+"Chris Timmins" = "https://www.christophertimmins.com/"
+"Douglas H. Wrenn" = "https://aese.psu.edu/directory/dhw121"
+"Allan Collard-Wexler" = "https://sites.duke.edu/collardwexler/"
+"Mert Demirer" = "https://www.mertdemirer.com/"
+"Sophie Calder-Wang" = "https://www.sophiecalderwang.com/"
+"Lucija Muehlenbachs" = "https://sites.google.com/site/lucijamuehlenbachs/"
+# An entry can carry a second address, shown in brackets after the name.
+"Matthew Grennan" = { url = "https://www.matthewgrennan.com/", also = "Emory", also_url = "https://economics.emory.edu/people/faculty/biography/grennan-matthew.html" }
+"T. Robert Fetter" = { url = "https://wfpc.sanford.duke.edu/people/t-robert-fetter/", also = "Duke EAP", also_url = "https://energyaccess.duke.edu/team/robert-fetter/" }
+"Elisheba Spiller" = { url = "https://sites.google.com/site/ebeiaspiller", also = "RFF", also_url = "https://www.rff.org/people/beia-spiller/" }
+
+# Sections of the paper list, in the order shown.
+[[section]]
+id = "pub"
+title = "Publications"
+
+[[section]]
+id = "wp"
+title = "Working Papers"
+
+[[section]]
+id = "wip"
+title = "Works in Progress"
+
+[[section]]
+id = "hib"
+title = "Works in Hibernation"
+
+# Papers, in the order shown within each section.
+# Fields: section, title, year, authors, journal + journal_detail (published) or status (not yet),
+# notes, links, topics, abstract. Only section, title and year are required.
+
+[[paper]]
+section = "pub"
+title = "Diversification, Market Entry, and the Global Internet Backbone"
+year = 2025
+authors = ["El Hadi Caoui"]
+journal = "Review of Economic Studies"
+journal_detail = "Volume 93, Issue 5, September 2026, pp. 2950–2985"
+links = [
+  { label = "Published version", url = "https://doi.org/10.1093/restud/rdaf097" },
+  { label = "SSRN", url = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4478868" },
+]
+topics = ["Internet Infrastructure", "Market Entry"]
+# Abstract source: published abstract.
+abstract = """
+In many industries, buyers diversify their supplier base to manage supplier disruption risk.
+We investigate the importance of such diversification as a determinant of demand and supplier entry in the context of the internet backbone, the worldwide network of undersea fibre-optic cables that underpins the internet.
+We specify a model of international bandwidth demand and cable operators’ dynamic entry and supply choices.
+The model is estimated using novel data on cross-border data flows, prices, cable characteristics, and disruptions.
+Counterfactual analysis reveals that supplier diversification accounts for a large share of entry and surplus created between 2005 and 2021.
+Relative to the socially optimal level of entry, distortions due to suppliers’ inability to capture fully the social benefits of diversity are as large as distortions due to business stealing.
+"""
+
+[[paper]]
+section = "pub"
+title = "Content Providers and the Deployment of Internet Infrastructure"
+year = 2025
+authors = ["El Hadi Caoui"]
+journal = "Information Economics and Policy"
+journal_detail = "Volume 71, December 2025"
+notes = ["NET Institute Working Paper 23-07"]
+links = [
+  { label = "Published version", url = "https://doi.org/10.1016/j.infoecopol.2025.101134" },
+  { label = "SSRN", url = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4822129" },
+]
+topics = ["Internet Infrastructure", "Market Entry"]
+
+[[paper]]
+section = "wp"
+title = "Learning by Viewing? Social Learning, Regulatory Disclosure, and Firm Productivity in Shale Gas"
+year = 2024
+authors = ["T. Robert Fetter", "Christopher Timmins", "Douglas H. Wrenn"]
+status = "R&R at American Economic Journal: Economic Policy"
+notes = ["NBER Working Paper 25401"]
+links = [
+  { label = "Draft", url = "uploads/lbv_may20.pdf" },
+  { label = "NBER", url = "https://www.nber.org/papers/w25401" },
+]
+topics = ["Energy", "Innovation"]
+# Abstract source: abstract of the May 2020 draft.
+abstract = """
+In many industries firms can learn about new technologies from other adopters; mandatory disclosure regulations represent an understudied channel for this type of social learning.
+We study an environmentally-focused law in the shale gas industry to examine firm claims that disclosure requirements expose valuable trade secrets.
+Our research design takes advantage of a unique regulatory history that allows us to observe complete information on chemical inputs prior to disclosure, along with the timing of information availability for thousands of wells after disclosure takes effect.
+We find that firms’ chemical choices following disclosure converge in a manner consistent with inter-firm imitation and that this leads to more productive wells for firms that carefully choose whom to copy — but also a decline in innovation among the most productive firms, whose innovations are those most often copied by other firms.
+Our results suggest there is a long-run welfare trade-off between the potential benefits of information diffusion and transparency, and the potential costs of reduced innovation.
+"""
+
+[[paper]]
+section = "wp"
+title = "Regulating New Product Testing: the FDA vs. the Invisible Hand"
+year = 2026
+authors = ["Allan Collard-Wexler", "Matthew Grennan"]
+notes = ["previously circulated as “Private and Public Incentives for Testing: Evidence from Stents”"]
+topics = ["Health Care", "Innovation", "Market Entry"]
+
+[[paper]]
+section = "wp"
+title = "Industry Dynamics with Social Learning: Evidence from Hydraulic Fracturing"
+year = 2024
+authors = []
+notes = ["Finalist, Young Economists’ Essay Award, EARIE, 2022"]
+links = [
+  { label = "Draft", url = "uploads/idsl_draft.pdf" },
+]
+topics = ["Energy", "Innovation", "Market Entry"]
+# Abstract source: the draft dated August 2024 (uploads/idsl_draft.pdf); same text as the January 2022 draft.
+abstract = """
+I model the interaction between dynamic decision making and social learning about new technologies in driving industry takeoff and productivity growth.
+Learning about the use of new technologies is an important factor in economic growth, but I demonstrate that anticipated social learning can lead to a freeriding dynamic in scenarios with high enough uncertainty.
+I consider the empirical setting of hydraulic fracturing in North Dakota, where firms learn about the optimal use of fracturing technology, in part due to detailed data published by regulators.
+The cumulative value of this learning process is a ceteris paribus 40% increase in ex-ante expected profitability.
+I model the impact of learning externalities on agents’ decisions to drill shale oil wells, an optimal stopping problem.
+My estimates suggest that the social learning externality is too small to affect investment in later stages of industry development, after uncertainty is reduced.
+Conversely, I demonstrate that under conditions of higher uncertainty, anticipated social learning can lead to significantly lower industry investment and slower rates of industry learning.
+Under this scenario, I also demonstrate the potential for public tests of the technology to enhance welfare by leading to more investment and a higher learning rate.
+"""
+
+[[paper]]
+section = "wip"
+title = "Datacenter Entry & Congestion in US Electricity Markets"
+year = 2026
+authors = ["Sophie Calder-Wang", "El Hadi Caoui", "Mert Demirer"]
+topics = ["Internet Infrastructure", "Energy", "Market Entry"]
+
+[[paper]]
+section = "wip"
+title = "Demand for Diversification, Market Power, and Merger Analysis"
+year = 2025
+authors = ["El Hadi Caoui"]
+topics = ["Internet Infrastructure"]
+
+[[paper]]
+section = "wip"
+title = "Time to Build, Investment Size, and Dynamic Market Power"
+year = 2026
+authors = []
+topics = ["Energy", "Market Entry"]
+
+[[paper]]
+section = "hib"
+title = "The Impact of the Fracking Boom on Rents in Pennsylvania"
+year = 2016
+authors = ["Lucija Muehlenbachs", "Elisheba Spiller", "Chris Timmins"]
+topics = ["Energy"]
+
+[teaching]
+where = "University of Toronto Mississauga, 2018 to present"
+courses = ["Business Technology Management (Undergraduate)", "Predictive Analytics (Undergraduate)", "Technology Strategy (Undergraduate)", "Special Topics in Management (Undergraduate)", "Society, Organisations, and Technology (MBiotech)"]
+
+[[address]]
+title = "St. George Campus"
+lines = ["Rotman School of Management", "105 St. George Street", "Toronto, ON M5S 3E6", "Canada"]
+
+[[address]]
+title = "Mississauga Campus"
+lines = ["Department of Management", "3359 Mississauga Road", "Mississauga, ON L5L 1C6", "Canada"]
