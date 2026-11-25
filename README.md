@@ -82,6 +82,7 @@ An entry is either one address, or a table that adds a second link shown in brac
 - One page, with the identity and links in a sidebar that becomes a header block on a phone.
 - Dark mode follows the reader's system setting. The button in the sidebar switches it and the browser remembers the choice; switching back to match the system makes it automatic again.
 - The page works without JavaScript (the button is then hidden).
+- The email address is kept out of the page source in its normal form, to make it harder for address harvesters to collect: the source holds `name(at)site(dot)ca` and the pieces, and a few lines of JavaScript show readers the normal, clickable address. It is written normally in `content.toml`.
 - The Newsreader typeface is served from the site's own `fonts/` folder (downloaded from Google Fonts in November 2026, SIL Open Font License), so the page loads nothing from other sites.
 
 ## History

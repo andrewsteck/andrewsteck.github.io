@@ -170,10 +170,30 @@ def row(p, c):
     return "".join(out)
 
 
+def email_item(address):
+    """The email line of the sidebar, written so that simple address harvesters miss it.
+
+    The page source holds the address only in pieces and as "name(at)site(dot)ca".
+    EMAIL_SCRIPT puts the pieces together in the reader's browser, so a person sees
+    the normal address and can click it. Without JavaScript the (at)/(dot) text stays.
+    """
+    user, domain = address.split("@")
+    shown = address.replace("@", "(at)").replace(".", "(dot)")
+    return '<li><a class="em" data-u="%s" data-d="%s">%s</a></li>' % (e(user), e(domain), e(shown))
+
+
+EMAIL_SCRIPT = """<script>
+document.querySelectorAll('a.em').forEach(function (a) {
+  var m = a.dataset.u + String.fromCharCode(64) + a.dataset.d;
+  a.href = 'mailto:' + m; a.textContent = m;
+});
+</script>"""
+
+
 def render(c, css, updated):
     name = e(c["name"])
     side = ['<li class="cv"><a class="caps" href="%s">Curriculum vitae (PDF)</a></li>' % e(c["cv"]),
-            '<li><a href="mailto:%s">%s</a></li>' % (e(c["email"]), e(c["email"]))]
+            email_item(c["email"])]
     side += ['<li><a href="%s">%s</a></li>' % (e(l["url"]), e(l["label"])) for l in c.get("link", [])]
 
     jump, main = [], []
@@ -240,6 +260,7 @@ def render(c, css, updated):
 </main>
 </div>
 {THEME_BUTTON}
+{EMAIL_SCRIPT}
 </body>
 </html>
 """
